@@ -1,16 +1,15 @@
-## Hi there 👋
+## WELCOME TO MY PROFILE 👋
 
-<!--
-**affaradi13/affaradi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 😁About me
+- i am a beginner programmer
+- i am learning programming to sharpen my logical skills.
+- i want to create software
 
-Here are some ideas to get you started:
+#### ✍️Skills
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) ![image](    https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📸Social
+![https://www.instagram.com/raffa_adi7](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@raffa_adi4?_r=1&_t=ZS-98bBIGP4E9y](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.facebook.com/profile.php?id=61585132722206](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+#### 🔥My Stats
+![affaradi13's GitHub stats](https://github-readme-stats.vercel.app/api?username=affaradi13&show_icons=true&theme=dark)
