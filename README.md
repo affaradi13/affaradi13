@@ -13,3 +13,9 @@
 
 #### 🔥Stats
 ![](https://github-readme-stats.shion.dev/api?username=affaradi13&show_icons=true&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/affaradi13/affaradi13/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/affaradi13/affaradi13/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/affaradi13/affaradi13/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
