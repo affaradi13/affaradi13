@@ -1,6 +1,6 @@
 ## WELCOME TO MY PROFILE 👋
 
-#### 😁About me
+### 😁About me
 - i am a beginner programmer
 - i am learning programming to sharpen my logical skills.
 - i want to create software
