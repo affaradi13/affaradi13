@@ -11,7 +11,7 @@ I'm a beginner programmer who enjoys learning to code. I use programming to impr
 
 ### 🔥Github Stats
 ![](https://github-readme-stats.shion.dev/api?username=affaradi13&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=affaradi13&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=affaradi13&theme=dark&hide_border=false) <br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=affaradi13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture data-importer="pacman">
