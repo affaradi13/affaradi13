@@ -1,4 +1,4 @@
-![kaito](Image/kaito.jpeg)
+
 
 # WELCOME TO MY PROFILE 👋
 
